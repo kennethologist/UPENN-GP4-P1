@@ -1,0 +1,2 @@
+Alpacas for Stock Data
+FTX/Coinbase/Kraken for Crypto Data
