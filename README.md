@@ -48,6 +48,5 @@ The explosion of the crypto sector in recent years has many people interested in
 2. Create parameter for projected tech sector performance.
 
 ## Project Members
-Ken Smith - @kennethologist
-
-Alex - @allsmit
+1. Ken Smith - @kennethologist
+2. Alex - @allsmit
