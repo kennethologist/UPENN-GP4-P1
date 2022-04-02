@@ -36,3 +36,4 @@ It is our goal that investors will be able to use this application, with its viz
 2. Create parameter for projected tech sector performance.
 
 ## Project Members
+Ken Smith - @kennethologist
