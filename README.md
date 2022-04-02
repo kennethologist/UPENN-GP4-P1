@@ -1,5 +1,5 @@
 # Cryptocurrency's correlation to Tech Stocks
-#### The goal of the project is to find an index of cryptocurrencies that are not strongly (ideally little to no correlation) to Tech Stocks (FAANGMULA)
+#### The goal of the project is to create an index of cryptocurrencies that are not strongly (ideally little to no) correllated to Tech Stocks (FAANGMULA)
 
 
 <!-- TABLE OF CONTENTS -->
