@@ -49,4 +49,5 @@ The explosion of the crypto sector in recent years has many people interested in
 
 ## Project Members
 Ken Smith - @kennethologist
+
 Alex - @allsmit
