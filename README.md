@@ -50,3 +50,4 @@ The explosion of the crypto sector in recent years has many people interested in
 ## Project Members
 1. Ken Smith - @kennethologist
 2. Alex - @allsmit
+3. Jack - @jackdavis185
