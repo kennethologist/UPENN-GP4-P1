@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 def random_portfolios_generator(tickers, n):
     random_portfolios = pd.DataFrame(tickers, columns = ['ticker'])
     for n in range(0, n):
