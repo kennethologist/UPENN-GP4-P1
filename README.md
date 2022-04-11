@@ -33,10 +33,10 @@ The explosion of the crypto sector in recent years has many people interested in
 
 ## Datasets
 1. Alpaca
-2. Kraken
+2. CoinApi.co
 
 ## Tasks
-1. Pull data from Alpaca and Kraken, the former for FAANGMULA and the latter for the crypto sector.
+1. Pull data from Alpaca and CoinApi, the former for FAANGMULA and the latter for the crypto sector.
 2. Visualize price hitory of a given portfolio.
 3. Calculate correlation with FAANGMULA given crypto portfolio as input.
 4. Model future performance of a given portfolio using Monte Carlo simulation.
